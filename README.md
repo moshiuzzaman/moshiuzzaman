@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/solaiman-shadin/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/dev.shadin) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@solaimanshadin) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-moshiuzzaman-8699641b7/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/freelancershozon) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://shozonraj.medium.com/) 
 
 
 <br />
@@ -42,14 +42,14 @@
 <br />
 <img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/moshiuzzaman/moshiuzzaman)
 
 
 [programming]: https://www.programming-hero.com/
-[website]: https://shadin.netlify.app/
-[twitter]: https://shadin.netlify.app/
-[linkedin]: https://shadin.netlify.app/
-[webdevplaylist]: https://shadin.netlify.app/
-[jsplaylist]: https://shadin.netlify.app/
-[cssplaylist]: https://shadin.netlify.app/
-[reactplaylist]: https://shadin.netlify.app/
+[website]: http://moshiuzzaman.netlify.app/
+[twitter]: http://moshiuzzaman.netlify.app/
+[linkedin]: http://moshiuzzaman.netlify.app/
+[webdevplaylist]: http://moshiuzzaman.netlify.app/
+[jsplaylist]: http://moshiuzzaman.netlify.app/
+[cssplaylist]: http://moshiuzzaman.netlify.app/
+[reactplaylist]: http://moshiuzzaman.netlify.app/
