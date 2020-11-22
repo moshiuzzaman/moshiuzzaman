@@ -1,4 +1,4 @@
-### Hi there, I'm  [MD Moshiuzzaman][http://moshiuzzaman.netlify.app/] 👋
+### Hi there, I'm  [MD Moshiuzzaman] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🌱 I’m currently learning everything 🤣
@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
-
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://moshiuzzaman.netlify.app/)](http://moshiuzzaman.netlify.app/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-moshiuzzaman-8699641b7/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/freelancershozon) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://shozonraj.medium.com/) 
