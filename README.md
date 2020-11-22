@@ -40,9 +40,9 @@
 
 <br />
 <br />
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=moshiuzzaman&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/moshiuzzaman/moshiuzzaman)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiuzzaman&card_width=550)](https://github.com/moshiuzzaman/moshiuzzaman)
 
 
 [programming]: https://www.programming-hero.com/
