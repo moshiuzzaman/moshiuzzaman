@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I love to Explore New Topic🔓. 
 
 ### Connect with me:
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://moshiuzzaman.netlify.app/)](http://moshiuzzaman.netlify.app/)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-moshiuzzaman-6926b5270/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/freelancershozon) 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://moshiuzzaman.netlify.app/)](https://shozonraj.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shozonraj) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shozonraj) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://shozonraj.medium.com/) 
 
 
