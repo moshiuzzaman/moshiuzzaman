@@ -33,17 +33,5 @@
 </a> 
 </p>
 
-<br />
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=moshiuzzaman&show_icons=true"/>
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiuzzaman&card_width=550)](https://github.com/moshiuzzaman/moshiuzzaman)
 
 
-[programming]: https://www.programming-hero.com/
-[website]: http://moshiuzzaman.netlify.app/
-[twitter]: http://moshiuzzaman.netlify.app/
-[linkedin]: http://moshiuzzaman.netlify.app/
-[webdevplaylist]: http://moshiuzzaman.netlify.app/
-[jsplaylist]: http://moshiuzzaman.netlify.app/
-[cssplaylist]: http://moshiuzzaman.netlify.app/
-[reactplaylist]: http://moshiuzzaman.netlify.app/
