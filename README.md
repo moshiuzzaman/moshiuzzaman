@@ -18,7 +18,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nestjs,nextjs,azure,jest,aws,github,mongodb,mysqlcss,html,js,express,nodejs,docker,react,redis,redux,prisma,nginx,firebase,tailwind,bootstrap,cloudflare,figma,gatsby,git,heroku,kafka,linux,materialui,netlify,postman,rabbitmq,sass,tensorflow,threejs,wordpress"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nestjs,nextjs,azure,jest,aws,github,mongodb,mysql,css,html,express,nodejs,docker,react,redis,redux,prisma,nginx,firebase,tailwind,bootstrap,cloudflare,figma,gatsby,git,heroku,kafka,linux,materialui,netlify,postman,rabbitmq,sass,tensorflow,threejs,wordpress"> </a> </p>
 
 
 ## My Stats:
