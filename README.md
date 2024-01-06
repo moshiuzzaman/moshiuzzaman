@@ -21,13 +21,13 @@
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=moshiuzzaman&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=moshiuzzaman&show_icons=true&count_private=true&theme=gruvbox&bg_color=0d1117">
 </p>
 
 ## Activity On GitHub
 <p align="center">
   <a href="https://github.com/moshiuzzaman">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiuzzaman&theme=dark&hide_border=true&stroke=f53b3b&bg_color=151515"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiuzzaman&theme=dark&stroke=f53b3b&bg_color=0d1117"/>
 </a> 
 </p>
 
@@ -35,5 +35,5 @@
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiuzzaman&theme=gruvbox&hide_border=true&stroke=f53b3b&card_width=500&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiuzzaman&theme=gruvbox&stroke=f53b3b&card_width=500&bg_color=0d1117">
 </p>
