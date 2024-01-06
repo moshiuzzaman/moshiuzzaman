@@ -5,14 +5,12 @@
 - 🥅 2024 Goals: Contribut more open sourch and problem solving contest.
 - ⚡ Fun fact: I love to Explore New Topic🔓. 
 
-### Connect with me:
+## Connect with me:
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://moshiuzzaman.netlify.app/)](https://shozonraj.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shozonraj) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shozonraj) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://shozonraj.medium.com/) 
 
-
-<br />
 
 
 
@@ -29,10 +27,13 @@
 ## Activity On GitHub
 <p align="center">
   <a href="https://github.com/moshiuzzaman">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiuzzaman&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiuzzaman&theme=dark&hide_border=true&stroke=f53b3b&bg_color=151515"/>
 </a> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiuzzaman&theme=dark)
 
+## Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiuzzaman&theme=gruvbox&hide_border=true&stroke=f53b3b&card_width=500&bg_color=151515">
+</p>
