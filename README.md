@@ -21,7 +21,7 @@
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=moshiuzzaman&show_icons=true&count_private=true&theme=gruvbox&bg_color=0d1117">
+<img height="200px" src="https://github-readme-stats-git-master-moshiuzzamans-projects.vercel.app/api?username=moshiuzzaman&show_icons=true&count_private=true&theme=gruvbox&bg_color=0d1117">
 </p>
 
 ## Activity On GitHub
