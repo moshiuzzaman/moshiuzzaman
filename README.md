@@ -1,4 +1,10 @@
-### Hi there, I'm  [ <a href="https://github.com/moshiuzzaman"> Moshiuzzaman Shozon</a> ] 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
+
+###  ME  [ <a href="https://github.com/moshiuzzaman"> Moshiuzzaman Shozon</a> ] 👋
 
 ## I'm a 😍😍 Creative Developer 😍😍!
 - 🌱 I’m currently learning AI/ML and XR.
@@ -54,3 +60,8 @@
 ## Contribution Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moshiuzzaman&bg_color=0d1117&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Thanks for visiting&animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
+</p>
